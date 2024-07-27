@@ -1,2 +1,2 @@
 # seasonOne-bucketlist
-list of sessions to work on.
+list of sessions goes here 
