@@ -37,8 +37,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Books:
-✦ Computer Networking: High Performance Browser Networking by Ilya Grigorik.\
-✦ Software Architecture: Design Patterns/Gang of Four by by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.\
+✦ High Performance Browser Networking by Ilya Grigorik.\
+✦ Design Patterns/Gang of Four by by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.\
 ✦ Understanding Software Dynamics by Richard Sites.\
 ✦ The Architecture of Open Source Applications, Multiple Volumes.\
 ✦ Designing ML Systems by Chip Huyen.
