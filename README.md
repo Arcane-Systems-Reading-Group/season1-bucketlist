@@ -122,7 +122,7 @@
 ✦ Build your own build system with Rust.\
 ✦ Homemade data encoding: think protobufs, rkyv, apache arrow, etc.\
 ✦ K8s x Slurm from scratch with Go.\
-✦ TheWiesmanProject: speedrun building state-of-the-art lossless data compression such as zstd and Brotl.\
+✦ TheWiesmanProject: speedrun building state-of-the-art lossless data compression such as zstd and Broti.\
 ✦ Linux kernel programmingin C.\
 ✦ MallocMyHeart: Malloc from Scratch inspired from top-of-the-line allocators like jemalloc and others.\
 ✦ JAX from the ground up with Python/Mojo.\
